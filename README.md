@@ -22,8 +22,11 @@ This program is an interactive list generator that will create a password wordli
 
 # install git
 
-# git clone https://github.com/DRACULA-HACK/pass-list-creater-
-
 # install python 
 
 # install python3
+
+
+git clone https://github.com/DRACULA-HACK/pass-list-creater-
+
+python pass.py
